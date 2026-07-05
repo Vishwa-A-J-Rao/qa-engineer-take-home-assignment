@@ -221,6 +221,3 @@ With additional time, I would consider:
 * Chromium is used for execution as required by the assignment.
 * Tests are independent and can run in any order.
 * API tests use Playwright's `APIRequestContext`.
-* The `.env` file is included for this assignment to simplify execution and evaluation.
-
-Thank you for reviewing my submission.
